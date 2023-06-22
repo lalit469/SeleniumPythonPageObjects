@@ -1,0 +1,5 @@
+" this is a hybrid framework which consists of keyword as well as data and POM(Page Object Model).
+
+
+to generate requirement.txt file - pip freeze > requirement.txt file(It will install all the required packages)
+we need requirement.txt file and then run command pip install -r requirement.txt

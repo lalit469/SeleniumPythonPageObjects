@@ -1,0 +1,4 @@
+INFO     TestCases.test_Carwale:test_Carwale.py:49 Inside car names and prices test
+INFO     Pages.BasePage:BasePage.py:64 Moving to an element: newCar_XPATH
+INFO     Pages.BasePage:BasePage.py:27 Clicking on an element: findNewCars_XPATH
+INFO     Pages.BasePage:BasePage.py:27 Clicking on an element: hyundai_XPATH
